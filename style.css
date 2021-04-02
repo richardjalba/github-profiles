@@ -20,6 +20,10 @@ body {
 
 /* */
 
+.title {
+  color: #3a4864;
+}
+
 .user-form {
   width: 100%;
   max-width: 700px;
